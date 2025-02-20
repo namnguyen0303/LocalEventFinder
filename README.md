@@ -1,9 +1,6 @@
 # Local Event Finder
 
-Submitted by: Nam Nguyen - z23539620
-
-Youtube Link for the presentation: https://www.youtube.com/watch?v=da_7NHdfZCQ
-
+Youtube Link for the presentation:
 ## **Table of Contents**
 1. Overview
 2. Product Spec
@@ -31,7 +28,7 @@ Local Event Finder is a mobile application that allows users to discover and exp
 
 ### **1. Completed User Stories**
 
-#### **Required Must-have Stories (build sprint 1)**  
+#### **Required Must-have Stories**  
 1. **User can register for an account.**  
 2. **User can log in to their account.**  
 3. **User can sign out.**  
@@ -39,7 +36,7 @@ Local Event Finder is a mobile application that allows users to discover and exp
 5. **User can view detailed information about an event.**  
 6. **User can edit their information such as name and date of birth.**  
 
-#### **Optional Nice-to-have Stories (build sprint 2)**  
+#### **Optional Nice-to-have Stories**  
 1. **User can save an event to their favorites and unsave it.**  
 2. **User can search for events with different locations and different search radius.**  
 3. **User can filter events based on its categories such as Music, Sports, or Arts & Theatre.**  
@@ -91,18 +88,6 @@ Local Event Finder is a mobile application that allows users to discover and exp
 
 
 ![LocalEventFinder](https://github.com/user-attachments/assets/8a774bb9-b17b-4c12-be50-38730b20f920)
-
-
-# GIF for Unit 8 - Build Sprint 1
-
-
-![unit8](https://github.com/user-attachments/assets/e733c24c-e387-468f-b3a0-05cc4e9fa8b4)
-
-
-# GIF for Unit 9 - Build Sprint 2
-
-
-![unit9 1](https://github.com/user-attachments/assets/db0078ab-59ba-4c55-b8df-5bb7f8ca08c6)
 
 
 ---
