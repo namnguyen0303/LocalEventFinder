@@ -1,6 +1,6 @@
 # Local Event Finder
 
-Youtube Link for the presentation:
+Youtube Link for the presentation: https://www.youtube.com/watch?v=da_7NHdfZCQ
 ## **Table of Contents**
 1. Overview
 2. Product Spec
